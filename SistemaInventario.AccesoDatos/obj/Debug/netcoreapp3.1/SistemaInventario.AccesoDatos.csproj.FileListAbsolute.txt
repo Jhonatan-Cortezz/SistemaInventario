@@ -1,0 +1,5 @@
+C:\Users\JHONATAN CORTEZ\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.deps.json
+C:\Users\JHONATAN CORTEZ\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
+C:\Users\JHONATAN CORTEZ\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\JHONATAN CORTEZ\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\JHONATAN CORTEZ\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfo.cs
